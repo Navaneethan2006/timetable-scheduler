@@ -1,0 +1,6 @@
+,1,2,3,4,5,6,7,8
+MON,EMF,Signals,EDC,EDC,PRP,EDC,PRP,Signals
+TUE,EMF,PRP,Signals,-1,PRP,EMF,EMF,Signals
+WED,EMF,EDC,Signals,Aptitude,EMF,Probability,Aptitude,EMF
+THU,Aptitude,EDC,Probability,Probability,PRP,EMF,EMF,Aptitude
+FRI,Probability,PRP,PRP,EMF,Aptitude,PRP,Aptitude,EMF
